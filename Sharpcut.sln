@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33626.354
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sharpcut", "ShortcutSharp\Sharpcut.csproj", "{3A1F1DA1-8989-42AD-93FE-4F437D7F140A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sharpcut.Tests", "Sharpcut.Tests\Sharpcut.Tests.csproj", "{FEF9F7DC-6CB5-4B5E-AE20-4D2418AEA00D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A1F1DA1-8989-42AD-93FE-4F437D7F140A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A1F1DA1-8989-42AD-93FE-4F437D7F140A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A1F1DA1-8989-42AD-93FE-4F437D7F140A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A1F1DA1-8989-42AD-93FE-4F437D7F140A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF9F7DC-6CB5-4B5E-AE20-4D2418AEA00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF9F7DC-6CB5-4B5E-AE20-4D2418AEA00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF9F7DC-6CB5-4B5E-AE20-4D2418AEA00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF9F7DC-6CB5-4B5E-AE20-4D2418AEA00D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E421512D-7A23-40BA-BA56-5AD6113880D9}
+	EndGlobalSection
+EndGlobal
